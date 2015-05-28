@@ -14,3 +14,5 @@ Basic WordPress Plugin Frameworks For New WP Developers With No Page, With Admin
 ````
 
 Just download this repo and start working for your need. New Wordpress developers frequently need these. `custom.php` is recomanded to use for complex work. Tested.
+
+Details : https://thecustomizewindows.com/2015/05/bare-wordpress-plugins-with-admin-page-for-your-dev-works/
