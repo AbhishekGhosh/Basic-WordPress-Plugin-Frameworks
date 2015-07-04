@@ -6,8 +6,8 @@ Basic WordPress Plugin Frameworks For New WP Developers With No Page, With Admin
 
 |---basic.php (just ordinary basic plugin framework)
 |------basic.php.zip (ready to upload zip of the above as plugin)
-|---custom.php (one option page with no physical separate php page)
-|------custom.php.zip (ready to upload zip of the above as plugin)
+|---shell.php (one option page with no physical separate php page)
+|------custom.php.zip (ready to upload zip of the above as plugin, UPDATE - do not use it, use shell.php. zip that to use. Has minor bug.)
 |---complex (has admin page and a submenu)
 |------complex.zip (ready to upload zip of the above as plugin)
 
